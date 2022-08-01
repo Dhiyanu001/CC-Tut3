@@ -1,3 +1,6 @@
-n=int(input("Enter no:"))
-for i in range (2,n+1,2):
+#code by dhiyanu and sathish
+n=int(input("Enter number>>"))
+i=2
+while i<=n:
     print(i)
+    i+=2
